@@ -154,7 +154,7 @@ If using MongoDB Atlas:
 ## 📁 Project Structure
 
 ```
-Ai_Resume_Akshay/
+AI-Resume-Buildery/
 ├── client/                 # Frontend React application
 │   ├── public/
 │   │   ├── Resume.svg      # App favicon
@@ -306,23 +306,3 @@ The app supports multiple AI providers:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
-- Vite for the fast build tool
-- All the open-source contributors who made this project possible
-
-## 📞 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Contact the maintainers
-
----
-
-**Made with ❤️ by Akshay**
